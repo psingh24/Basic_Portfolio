@@ -1,0 +1,66 @@
+#page-wrap {
+  width: 1000px;
+  margin: 0 auto;
+}
+.container {
+  width: 1000px;
+  height: 50px;
+  border-style: solid;
+  border-color: green;
+  border-width: 5px;
+  position: absolute;
+  
+ }
+
+.greenbox {
+  position: relative;
+  float: left;
+  width: 100px;
+ 
+  border-style: solid;
+  border-color: blue;
+  border-width: 5px;
+}
+
+.right {
+  float: right;
+}
+.main {
+  height: 600px;
+  width: 1000px;
+  border-style: solid;
+  border-width: 5 px;
+  border-color: red;
+}
+
+.mainpage {
+  float: left;
+  height: 600px;
+  width: 700px;
+  border-style: solid;
+  border-width: 5 px;
+  border-color: orange;
+}
+.sidebar {
+  float: right;
+  height: 600px;
+  width: 280px;
+  border-style: solid;
+  border-width: 5 px;
+  border-color: green;
+}
+
+.footer {
+  height: 50px;
+  width: 1000px;
+  border-style: solid;
+  border-width: 5 px;
+  border-color: black;
+}
+
+.picture {
+  float: left;
+  padding-right: 10px;
+}
+
+
