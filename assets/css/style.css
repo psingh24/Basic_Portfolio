@@ -130,7 +130,7 @@ hr {
   padding-left: 35px;
   padding-right: 10px;
 }
-.aboutme {
+.aboutme  {
   padding-left: 35px;
   padding-right: 15px;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -138,8 +138,11 @@ hr {
   color: #777777;
 }
 
-.icon {
- 
+form {
+ padding-left: 35px;
+ padding-top: 20px;
+ font-family: "Arial", 'Helvetica Neue', Helvetica, sans-serif;
+ color: #777777;
 }
 
 
