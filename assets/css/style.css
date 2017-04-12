@@ -1,6 +1,6 @@
 
 body {
-  background-image: url("/Users/Prabhdeepsingh/Desktop/Development/Basic_Portfolio/assets/images/background2.png");
+  background-image: url("http://img.webme.com/pic/e/encuentrahoy/FondodelFondoMia.jpg");
 
 }
 a {
@@ -95,6 +95,8 @@ hr {
   border-color: #cccccc;
   background-color: #ffffff;
 }
+
+
 
 
 .footer {
